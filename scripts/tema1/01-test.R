@@ -1,4 +1,4 @@
-#Esta línea no funciona, por ahora...
+#Esta línea no funciona, por ahora... esto es un cambio
 #lm(y~x)
 
 
